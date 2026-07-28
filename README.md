@@ -1,6 +1,7 @@
 # AI-Powered Study Planner
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)![PHP](https://img.shields.io/badge/PHP-8+-777BB4?logo=php)
+
+![PHP](https://img.shields.io/badge/PHP-8+-777BB4?logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
